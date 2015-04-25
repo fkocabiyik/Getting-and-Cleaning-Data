@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-This project introduces a clean up script that merges cleans and simplifies data on UCI HAR Dataset, a set of data that is based on human activity measurements via smartphone on the waist. Data is collected via smartphone's embedded accelerometer and gyroscope for different activities such as sitting walking,standing... 3-axial linear acceleration and 3-axial angular velocity is recorded from 30 subjects, and processed for further feature generation. 
+This project introduces a clean up script that merges cleans and simplifies data on UCI HAR Dataset, a set of data that is based on human activity measurements via smartphone on the waist. Data is collected via smartphone's embedded accelerometer and gyroscope for different activities such as sitting walking,standing... 3-axial linear acceleration and 3-axial angular velocity is recorded from 30 subjects, and processed for further feature generation. Script simply merges training and test data into a single dataset, simplifies the data and aggragate and order it for a simple output.
 
 #Script
 Run_analysis.R cleaning script does the following:
