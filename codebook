@@ -1,7 +1,7 @@
 
 The features selected for this database (tidyData.txt) obtained from the merged training and test data sets of accelerometer and 
 
-gyroscope raw signals readings from UCI HAR Data set. Data is filtered for to include only measurements on the mean and standard 
+gyroscope raw signal readings from UCI HAR Data set. Data is filtered for to include only measurements on the mean and standard 
 
 deviation. Final output is avaraged for each variable per activity and per subject. 
 
