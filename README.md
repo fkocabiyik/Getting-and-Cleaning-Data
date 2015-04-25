@@ -14,7 +14,8 @@ Creates a independent tidy data set with the average of each variable per activi
 
 Created data is writen as tidydata.txt to disk
 
-
+# Files
+=======
 readme.txt    :this file
 run_analysis.R: Data clean up script on R
 codebook.txt  :information on original and modified data set
